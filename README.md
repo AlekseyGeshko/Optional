@@ -1,2 +1,2 @@
 # optional
-Kind of optional
+Некоторое подобие optional.
