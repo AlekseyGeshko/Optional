@@ -1,7 +1,7 @@
 # optional
 Некоторое подобие optional.
 
-#Описание
+# Описание
 + Optional(const T& elem) - конструктор. Создает элемент со значением elem.  
 + Optional(T&& elem) - конструктор перемещения. Перемещает элемент со значением elem.  
 + Optional(const Optional& other) - конструктор копирования.  
