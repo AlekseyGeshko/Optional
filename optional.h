@@ -11,10 +11,6 @@ public:
     }
 };
 
-void sayHello(){
-	std::cout << "Hello!";
-}
-
 template <typename T>
 class Optional {
 private:
